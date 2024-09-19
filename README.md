@@ -9,15 +9,15 @@ About Me
 
 - 🌱 I’m currently learning **Site Reliability Engineering, Bash, PowerShell and Python Scripting**
 
-- 👨‍💻 All of my projects are available at [github.com/kunkunshark](github.com/dtchandra226672)
+- 👨‍💻 All of my projects are available at [my personal GitHub](https://github.com/dtchandra226672/)
 
-- 💬 Ask me about **technology, computers, financial instruments, investment**
+- 💬 Ask me about **Technology, Computers, Finance, Investment**
 
-- 📫 Reach me out through [my personal email](dtchandra@connect.ust.hk)
+- 📫 Reach me out through [my personal email](mailto:dtchandra@connect.ust.hk)
 
 - 🔭 I’m currently working on [personal finance management using Jupyter](https://github.com/dtchandra226672/personal-finance-ipynb)
 
-- ⚡ Fun fact **Cannot focus until get my proper morning americano**
+- ⚡ Fun fact? **I can't focus until get my proper morning Americano**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
