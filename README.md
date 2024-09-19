@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Darryl!</h1>
+<h3 align="center">Let's be 1% better every day!</h3>
 
-<!--
-**dtchandra226672/dtchandra226672** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
+- 🌃 I'm located in Hong Kong
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm a graduate with a degree in Electronic and Computer Engineering (ECE)
+
+- 🌱 I’m currently learning **Site Reliability Engineering, Bash, PowerShell and Python Scripting**
+
+- 👨‍💻 All of my projects are available at [github.com/kunkunshark](github.com/dtchandra226672)
+
+- 💬 Ask me about **technology, computers, financial instruments, investment**
+
+- 📫 Reach me out through [my personal email](dtchandra@connect.ust.hk)
+
+- 🔭 I’m currently working on [personal finance management using Jupyter](https://github.com/dtchandra226672/personal-finance-ipynb)
+
+- ⚡ Fun fact **Cannot focus until get my proper morning americano**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/dtchandra226672" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="dtchandra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/dtchandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dtchandra" height="30" width="40" /></a>
+<a href="https://instagram.com/ig/darryltchandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darryltchandra" height="30" width="40" /></a>
+<a href="https://twitter.com/kunkunshark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kun" height="30" width="40" /></a>
+<a href="https://instagram.com/kunkunshark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kun" height="30" width="40" /></a>
+<a href="https://discord.gg/bJJauA88TY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kunkun's" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunkunshark&show_icons=true&locale=en&layout=compact" alt="dtchandra226672" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunkunshark&" alt="dtchandra226672" /></p>
