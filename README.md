@@ -3,15 +3,15 @@
 
 About Me
 
-- 🌃 I'm located in Hong Kong
+- 🌃 I'm located in Hong Kong SAR, China
 
-- 🎓 I'm a graduate with a degree in Electronic and Computer Engineering (ECE)
+- 🎓 I'm a graduate with a degree in Electronic and Computer Engineering (ECE), with Minor in Business
 
-- 🌱 I’m currently learning **Site Reliability Engineering, Bash, PowerShell and Python Scripting**
+- 🌱 I’m currently learning **Site Reliability Engineering, Automation and Scripting** (Bash, PowerShell and Python)
 
 - 👨‍💻 All of my projects are available at [my personal GitHub](https://github.com/dtchandra226672/)
 
-- 💬 Ask me about **Technology, Computers, Finance, Investment**
+- 💬 Ask me about **Technology, Electronic, Computer Networking, Finance, Investment**
 
 - 📫 Reach me out through [my personal email](mailto:dtchandra@connect.ust.hk)
 
