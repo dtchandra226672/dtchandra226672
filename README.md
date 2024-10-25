@@ -17,12 +17,11 @@ About Me
 
 - 🔭 I’m currently working on [personal finance management using Jupyter](https://github.com/dtchandra226672/personal-finance-ipynb)
 
-- ⚡ Fun fact? **I can't focus until get my proper morning Americano**
+- 💨 Check out some of ideas, scraps, or findings on [my GitHub Gists](https://gist.github.com/dtchandra226672/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/dtchandra226672" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="dtchandra" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/dtchandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dtchandra" height="30" width="40" /></a>
 <a href="https://twitter.com/kunkunshark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kun" height="30" width="40" /></a>
 <a href="https://instagram.com/kunkunshark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kun" height="30" width="40" /></a>
 <a href="https://discord.gg/bJJauA88TY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kunkun's" height="30" width="40" /></a>
