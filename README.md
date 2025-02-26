@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Darryl!</h1>
-<h3 align="center">Let's be 1% better every day!</h3>
+<h3 align="center">Hello!</h3>
 
 About Me
 
-- 🌃 I'm located in Hong Kong SAR, China
+- 🌃 I'm located in Hong Kong
 
 - 🎓 I'm a graduate with a degree in Electronic and Computer Engineering (ECE), with Minor in Business
 
@@ -14,8 +14,6 @@ About Me
 - 💬 Ask me about **Technology, Electronic, Computer Networking, Finance, Investment**
 
 - 📫 Reach me out through [my personal email](mailto:dtchandra@connect.ust.hk)
-
-- 🔭 I’m currently working on [personal finance management using Jupyter](https://github.com/dtchandra226672/personal-finance-ipynb)
 
 - 💨 Check out some of ideas, scraps, or findings on [my GitHub Gists](https://gist.github.com/dtchandra226672/)
 
